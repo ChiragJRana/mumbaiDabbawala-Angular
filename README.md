@@ -29,4 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Demo Screen Shots
 ### Home Page
 
-![Home Page](https://github.com/ChiragJRana/mumbaiDabbawala-Angular/blob/master/src/assets/main_page.JPG?raw=true)
+![Home Page](https://github.com/ChiragJRana/mumbaiDabbawala-Angular/blob/master/src/assets/demo_video.gif?raw=true)
